@@ -1,0 +1,1 @@
+gsap.from('.heading', {opacity: 0, duration: 1, y: 50, stagger: .4});
